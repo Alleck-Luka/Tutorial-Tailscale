@@ -8,7 +8,7 @@ Visite o site oficial do Tailscale:
 
 https://tailscale.com
 
-![[Pasted image 20260426161945.png]]
+![](Pasted image 20260426161945.png)
 
 Nele você consegue baixar o Tailscale desktop, e logar ou criar sua conta. Faça essas duas coisas.
 Após isso, siga os tutoriais do próprio Tailscale pra conectar o seu computador com a sua conta Tailscale.
@@ -22,7 +22,7 @@ Aqui é preciso que você peça um link de share meu. Por segurança, eu vou ger
 A esse ponto você deve saber que o Tailscale fica na trail da barra de tarefas (A setinha pra cima).
 Se você clicar com o botão direito em cima dele, você consegue ver as opções do aplicativo.
 
-![[Pasted image 20260426162240.png]]
+![](Pasted image 20260426162240.png)
 
 Em network devices, os dispositivos que você conectou à sua conta vão aparecer dentro de My devices. Já as máquinas compartilhadas com você, assim como aquelas que estão dentro de redes da qual você faz parte (existe também convite de redes inteiras ao invés de somente determinada máquina).
 
